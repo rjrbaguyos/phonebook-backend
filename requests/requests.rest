@@ -1,7 +1,3 @@
-POST http://localhost:3001/api/persons
+GET https://phonebook-backend-zs4e.onrender.com/api/persons/22208
 content-type: application/json
 
-{
-    "name": "Ezra",
-    "number": "9079472167"
-}
